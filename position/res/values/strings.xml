@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">定位助手</string>
+    <string name="action_settings">关于</string>
+    <string name="get_location">获取站立点</string>
+    <string name="save_location">保存当前点</string>
+    <string name="about">关于</string>
+    <string name="exit">退出</string>
+    <string name="target_name">获得站立点</string>
+    <string name="note">点击添加备注</string>
+	<string name="picture">拍照</string>
+</resources>
